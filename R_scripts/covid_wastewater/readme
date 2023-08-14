@@ -8,5 +8,9 @@
 a. gathering data from the URL is not working; the user needs to enter in a path where the dataframe is located
 
 3. Backlog
-a. provide user with ability to input target counties / dates
-b. extend to other states and US
+* use data directly from DOH website
+* add commas to numbers
+* add graphs
+* provide user with ability to input target counties / dates
+* integrate maps
+* extend to other states and US
