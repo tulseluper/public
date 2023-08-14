@@ -1,0 +1,11 @@
+1. Purpose
+2. Known issues
+3. Backlog
+
+1. PURPOSE: The purpose of this script is to provide REDACTED with a personal assessment of COVID transmission risk within Washington state counties using data collected by the WA Department of Health (see https://doh.wa.gov/emergencies/covid-19/data-dashboard). REDACTED has provided a list of phases and their mapping with COVID levels in wastewater samples. This script computes the average of COVID samples over the past 14 days from the last sample date and then associates that number with the phase.
+
+2. KNOWN ISSUES:
+a. the user needs to enter in a path where the dataframe is located
+
+3. Backlog
+a. 
