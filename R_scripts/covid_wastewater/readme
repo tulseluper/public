@@ -9,6 +9,7 @@ a. gathering data from the URL is not working; the user needs to enter in a path
 
 3. Backlog
 * use data directly from DOH website
+* Add columns for trends (change in prior 14 days, past 30 days, past 3 months)
 * add commas to numbers
 * add graphs
 * provide user with ability to input target counties / dates
